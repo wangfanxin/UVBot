@@ -1,0 +1,17 @@
+firebase-sdk.json:
+Add this file to the directory of your python programs that use firebase
+
+createPath.py:
+a program that lets the roomba follow the path drawn on the flutter app's "Create Path" function.
+
+pathTracing.py:
+An autonomous wall follow program that hugs the wall from the right side of the roomba. Allows you to see the location of bot from flutter app's "See Robot Path" function.
+
+remoteControl.py:
+Allows you to control the roomba manually using the flutter app's "Manual Control" feature
+
+manualControl.py:
+A simple remote control program for moving roomba using r-pi keyboard arrow keys
+
+sensorExample.py:
+Program that shows how to get data from roomba sensors.
