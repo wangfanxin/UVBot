@@ -59,8 +59,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 * Peter Chien - Intern - peterc3@illinois.edu
 * Kesh - kesh@illinois.edu
 
-Project Link: [https://github-dev.cs.illinois.edu/nisar2/self-tracking-server-provider](https://github-dev.cs.illinois.edu/nisar2/self-tracking-server-provider)
-
 # robot-sanitizer
 ## library and bug-fix
 irobot library: https://pypi.org/project/pycreate2/, https://github.com/MomsFriendlyRobotCompany/pycreate2
