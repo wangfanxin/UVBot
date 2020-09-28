@@ -55,7 +55,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 ## Contact
 * Harris Nisar - Simulation Engineer - nisar2@illinois.edu
 * Yao Li - yaoli0508@gmail.com
-* Fanxin
+* Fanxin - fanxinw2@illinois.edu
 * Peter Chien - Intern - peterc3@illinois.edu
 * Kesh - kesh@illinois.edu
 
