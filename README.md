@@ -54,10 +54,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- CONTACT -->
 ## Contact
 * Harris Nisar - Simulation Engineer - nisar2@illinois.edu
-* Yao Li
+* Yao Li - yaoli0508@gmail.com
 * Fanxin
 * Peter Chien - Intern - peterc3@illinois.edu
-* Kesh
+* Kesh - kesh@illinois.edu
 
 Project Link: [https://github-dev.cs.illinois.edu/nisar2/self-tracking-server-provider](https://github-dev.cs.illinois.edu/nisar2/self-tracking-server-provider)
 
